@@ -140,7 +140,7 @@ Khi không phải đang tạo các backend API hoặc tối ưu database queries
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:giangtt8726@gmail.com)
 [![Zalo](https://img.shields.io/badge/Zalo-0068FF?logo=zalo&logoColor=white)](tel:0386677621)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/GiangTechiee)
 
 **💬 Luôn sẵn sàng cho:**
 - 🚀 Những cơ hội phát triển full-stack thú vị
@@ -160,7 +160,7 @@ Khi không phải đang tạo các backend API hoặc tối ưu database queries
   
 ### 💭 *"Xây dựng những giải pháp có thể mở rộng để tạo nên trải nghiệm người dùng tuyệt vời"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=GiangTechiee&color=brightgreen&style=flat-square)
 
 </div>
 
@@ -169,5 +169,5 @@ Khi không phải đang tạo các backend API hoặc tối ưu database queries
 ⭐ **Fact thú vị:** Tôi có thể debug code nhanh hơn sau khi đọc tin công nghệ và một session gaming - đó là bí quyết năng suất của tôi! 🎮💻
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiangTechiee&theme=tokyo-night&hide_border=true" />
 </div>
