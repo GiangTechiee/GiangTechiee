@@ -71,36 +71,17 @@ I am a **Full-Stack Developer & Product Builder** focused on building **scalable
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 ReVeo Ecosystem
-> Modular ecosystem including web, mobile, and AI-powered platforms  
-**Stack:** React · NestJS · PostgreSQL · Docker · Clean Architecture
-
-### 🔹 Tết E-commerce Platform (2026)
-> Vietnamese New Year–themed e-commerce system  
-**Focus:** UX · Performance · SEO · Scalability
-
-*(More projects coming soon…)*
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GiangTechiee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+  <!-- GitHub Trophy (thường ổn định hơn) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=GiangTechiee&theme=discord&row=1" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=GiangTechiee&theme=tokyonight&hide_border=true"
-    height="165"
-  />
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=GiangTechiee&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
-
 
 ---
 
