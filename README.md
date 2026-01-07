@@ -85,16 +85,22 @@ I am a **Full-Stack Developer & Product Builder** focused on building **scalable
 
 ---
 
-## 📊 GitHub Analytics (Live)
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiangTechiee&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiangTechiee&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=GiangTechiee&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GiangTechiee&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=GiangTechiee&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
+
 
 ---
 
