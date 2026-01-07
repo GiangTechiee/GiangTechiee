@@ -73,14 +73,6 @@ I am a **Full-Stack Developer & Product Builder** focused on building **scalable
 
 ## 📊 GitHub Analytics
 
-<!-- Trophy -->
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=GiangTechiee&theme=onestar&no-frame=true&row=1&column=7"
-    alt="GitHub Profile Trophy"
-  />
-</p>
-
 <!-- Activity Graph -->
 <p align="center">
   <img
