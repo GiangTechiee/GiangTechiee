@@ -73,15 +73,22 @@ I am a **Full-Stack Developer & Product Builder** focused on building **scalable
 
 ## 📊 GitHub Analytics
 
+<!-- Trophy -->
 <p align="center">
-  <!-- GitHub Trophy (thường ổn định hơn) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=GiangTechiee&theme=discord&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=GiangTechiee&theme=onestar&no-frame=true&row=1&column=7"
+    alt="GitHub Profile Trophy"
+  />
 </p>
 
+<!-- Activity Graph -->
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=GiangTechiee&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=GiangTechiee&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
+
 
 ---
 
